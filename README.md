@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aandremoraiss
 - 👀 I am interested in learning and helping
-- 🌱 I’m currently learning Python, JS, HTML, css...
+- 🌱 I’m currently learning Python, JS, HTML, CSS...
 - 💞️ I'm looking to collaborate on everything
 - 📫 How to reach me: Twitter @Andr3_Morais
 
